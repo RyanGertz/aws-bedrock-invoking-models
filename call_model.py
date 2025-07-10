@@ -55,7 +55,7 @@ def call_bedrock_model_with_streaming(message: str):
 
 
 def main():
-  # print(call_bedrock_model("What is the captial of France?"))
+  print(call_bedrock_model("What is the captial of France?"))
 
   call_bedrock_model_with_streaming('\n\nHuman: what is the capital of the United States\n\nAssistant:')
 
