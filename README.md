@@ -4,7 +4,7 @@ Welcome to our AI Summer Camp! This project will teach you how to interact with 
 
 ## Contact Information
 
-**Instructor**: rgertz@calpoly.edu
+**Instructor**: Ryan Gertz - rgertz@calpoly.edu
 
 Feel free to reach out if you have questions about:
 - Setting up AWS credentials
