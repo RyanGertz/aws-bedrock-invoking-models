@@ -92,7 +92,7 @@ This function works like having a real-time conversation:
    python bedrock_demo.py
    ```
 
-## Customizing Your Experience
+## Customizing The Code
 
 ### Try Different Questions
 In the `main()` function, you can change the questions:
