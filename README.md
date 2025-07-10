@@ -110,13 +110,13 @@ The code uses two different AI models:
 ## Common Issues and Solutions
 
 ### "No credentials found"
-This means your AWS credentials aren't set up. Ask your instructor for help with:
+This means your AWS credentials aren't set up. Ask for help with:
 - AWS Access Keys
 - AWS CLI configuration
 - IAM permissions
 
 ### "Access denied to model"
-Your AWS account might not have permission to use Bedrock models. Your instructor can help enable access.
+Your AWS account might not have permission to use Bedrock models. We can help enable access or point out another model.
 
 ### "Module not found: boto3"
 You need to install the boto3 package:
@@ -135,7 +135,7 @@ pip install boto3
 
 If you run into issues:
 1. Check the error message carefully
-2. Ask your instructor or camp counselors
+2. Ask our camp staff
 3. Look up the specific error message online
 4. Don't hesitate to experiment - you can't break anything!
    
