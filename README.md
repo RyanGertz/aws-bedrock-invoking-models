@@ -25,9 +25,9 @@ Before you start, you'll need:
 - You can download it from [python.org](https://www.python.org/downloads/)
 
 ### 2. AWS Account Setup
-- An AWS account (your instructor will help with this)
+- An AWS account
 - AWS credentials configured on your computer
-- Access to AWS Bedrock service
+- Access to AWS Bedrock service, and associated models
 
 ### 3. Required Python Packages
 Install the necessary packages by running this command in your terminal:
@@ -108,29 +108,12 @@ You need to install the boto3 package:
 pip install boto3
 ```
 
-## Learning Exercises
-
-1. **Experiment with Questions**: Try asking the AI different types of questions (factual, creative, analytical)
-
-2. **Compare Response Times**: Notice the difference between the regular function and streaming function
-
-3. **Modify Parameters**: Try changing `max_tokens` to see how it affects response length
-
-4. **Add Your Own Function**: Create a new function that asks the AI to explain a coding concept
-
 ## Important Notes
 
 - **Cost Awareness**: Each API call to AWS Bedrock costs money (usually just a few cents)
 - **Rate Limits**: AWS has limits on how many requests you can make per minute
 - **Content Policies**: AI models have guidelines about what they will and won't discuss
 
-## Next Steps
-
-After mastering this basic example, you can explore:
-- Building a chatbot with conversation memory
-- Creating a web interface for your AI
-- Comparing different AI models
-- Adding image generation capabilities
 
 ## Getting Help
 
