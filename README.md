@@ -1,6 +1,6 @@
-# AI Summer Camp: Getting Started with LLMs and AWS Bedrock
+# Cal Poly AI Summer Camp: Getting Started with LLMs and AWS Bedrock
 
-Welcome to our AI Summer Camp! This project will teach you how to interact with Large Language Models (LLMs) using Python and Amazon Web Services (AWS). Don't worry if you're new to these technologies - we'll explain everything step by step.
+Welcome to our AI Summer Camp! This project will teach you how to interact with Large Language Models (LLMs) using Python and Amazon Web Services (AWS). Don't worry if you're new to these technologies!
 
 ## Contact Information
 
