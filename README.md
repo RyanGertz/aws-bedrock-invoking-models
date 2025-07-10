@@ -2,6 +2,22 @@
 
 Welcome to our AI Summer Camp! This project will teach you how to interact with Large Language Models (LLMs) using Python and Amazon Web Services (AWS). Don't worry if you're new to these technologies - we'll explain everything step by step.
 
+## Contact Information
+
+**Instructor**: rgertz@calpoly.edu
+
+Feel free to reach out if you have questions about:
+- Setting up AWS credentials
+- Understanding the code concepts
+- Troubleshooting errors
+- Ideas for extending this project
+- General questions about AI and LLMs
+
+## Video Tutorial
+
+For a complete walkthrough of this project, check out my video explanation:
+[AI Summer Camp Tutorial - Getting Started with AWS Bedrock and Python](https://drive.google.com/file/d/1FwR0wyc6SaYPGWEDihB-d4RRda7D4gcF/view?usp=sharing)
+
 ## What You'll Learn
 
 - **Large Language Models (LLMs)**: AI systems that can understand and generate human-like text
@@ -122,6 +138,7 @@ If you run into issues:
 2. Ask your instructor or camp counselors
 3. Look up the specific error message online
 4. Don't hesitate to experiment - you can't break anything!
+   
 
 ## Resources for Further Learning
 
