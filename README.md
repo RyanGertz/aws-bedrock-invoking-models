@@ -43,7 +43,7 @@ Before you start, you'll need:
 ### 1. Python Installation
 - Python 3.7 or higher installed on your computer
 - You can download it from [python.org](https://www.python.org/downloads/)
-- You can also [my video](https://drive.google.com/file/d/1hwVswLDUorcEJJz8gbOUracmx9Ufj3QE/view?usp=drive_link) explaning how to install it on Windows
+- You can also watch [my video](https://drive.google.com/file/d/1hwVswLDUorcEJJz8gbOUracmx9Ufj3QE/view?usp=drive_link) explaning how to install it on Windows
 
 ### 2. AWS Account Setup
 - An AWS account
