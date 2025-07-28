@@ -3,7 +3,7 @@ import json
 
 
 def call_bedrock_model(message: str):
-  client = boto3.client("bedrock-runtime")
+  client = boto3.client("bedrock-runtime", region_name="us-west-2")
 
   payload = {
     "anthropic_version": "bedrock-2023-05-31",
@@ -21,7 +21,7 @@ def call_bedrock_model(message: str):
 
 
 def call_bedrock_model_with_streaming(message: str):
-  client = boto3.client(service_name='bedrock-runtime')
+  client = boto3.client("bedrock-runtime", region_name="us-west-2")
 
   payload = json.dumps({
     "anthropic_version": "bedrock-2023-05-31",
@@ -62,5 +62,4 @@ def main():
 
 if __name__ == "__main__":
   main()
-
 
